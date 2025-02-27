@@ -13,3 +13,8 @@ console.log(valueInNumber);//NaN
 // 1=> true,0=> false
 //"" => false
 //"Manish => true"
+
+// operations//
+let value =3;
+let negvalue = -value
+console.log(negvalue)
