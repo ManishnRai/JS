@@ -42,3 +42,12 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+let myYouTubeName = "ManishKumar"
+anotherName = "I am switching Job in march 2025"
+
+let user ={
+    email
+}
+// for primitive we receive a copy so if we change the copy the original one remains intact while in 
+// non primitive refrence to heap is given so any change in copy is reflected to original value as well.
